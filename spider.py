@@ -73,5 +73,4 @@ for product_link in link_list:
             data.append(product_dict)  
 print(data)
 
-# 關閉瀏覽器
 driver.close()
